@@ -1,0 +1,15 @@
+# GUI Requirements - Additional packages for the ASL GUI application
+# Install these in addition to the existing requirements
+
+# GUI Framework (built into Python, but listing for reference)
+# tkinter - Already included with Python
+
+# Image processing for GUI
+Pillow==10.0.1
+
+# All other requirements from existing setup:
+# tensorflow>=2.10.0
+# opencv-python>=4.7.0
+# numpy>=1.21.0
+# matplotlib>=3.5.0
+# scikit-learn>=1.1.0
